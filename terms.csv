@@ -1,0 +1,589 @@
+jp,reading,en
+暗号化,あんごうか,encryption
+情報セキュリティ,じょうほうせきゅりてぃ,information security
+機密性,きみつせい,confidentiality
+完全性,かんぜんせい,integrity
+可用性,かようせい,availability
+真正性,しんせいせい,authenticity
+責任追跡性,せきにんついせきせい,accountability
+否認防止,ひにんぼうし,non-repudiation
+信頼性,しんらいせい,reliability
+情報資産,じょうほうしさん,information asset
+脅威,きょうい,threat
+脆弱性,ぜいじゃくせい,vulnerability
+リスク,りすく,risk
+管理策,かんりさく,control (security measure)
+対策,たいさく,countermeasure
+セキュリティホール,せきゅりてぃほーる,security hole
+人的脅威,じんてききょうい,human threat
+物理的脅威,ぶつりてききょうい,physical threat
+技術的脅威,ぎじゅつてききょうい,technical threat
+意図的脅威,いとてききょうい,intentional threat
+偶発的脅威,ぐうはつてききょうい,accidental threat
+環境的脅威,かんきょうてききょうい,environmental threat
+内部不正,ないぶふせい,insider fraud / insider misconduct
+不正のトライアングル,ふせいのとらいあんぐる,fraud triangle
+動機,どうき,motive (pressure)
+機会,きかい,opportunity
+正当化,せいとうか,rationalization
+状況的犯罪予防,じょうきょうてきはんざいよぼう,situational crime prevention
+誤操作,ごそうさ,operational error
+紛失,ふんしつ,loss (of item)
+盗難,とうなん,theft
+漏えい,ろうえい,leak / disclosure
+改ざん,かいざん,tampering / falsification
+破壊,はかい,destruction
+盗聴,とうちょう,eavesdropping / wiretapping
+なりすまし,なりすまし,spoofing / impersonation
+盗み見,ぬすみみ,peeping
+ショルダーハッキング,しょるだーはっきんぐ,shoulder surfing
+ソーシャルエンジニアリング,そーしゃるえんじにありんぐ,social engineering
+トラッシング,とらっしんぐ,trashing (dumpster diving)
+共連れ,ともづれ,tailgating / piggybacking
+シャドーIT,しゃどーあいてぃー,shadow IT
+マルウェア,まるうぇあ,malware
+コンピュータウイルス,こんぴゅーたういるす,computer virus
+ワーム,わーむ,worm
+トロイの木馬,とろいのもくば,Trojan horse
+スパイウェア,すぱいうぇあ,spyware
+キーロガー,きーろがー,keylogger
+ランサムウェア,らんさむうぇあ,ransomware
+ボット,ぼっと,bot
+ボットネット,ぼっとねっと,botnet
+C&Cサーバ,しーあんどしーさーば,command and control server
+バックドア,ばっくどあ,backdoor
+ルートキット,るーときっと,rootkit
+アドウェア,あどうぇあ,adware
+マクロウイルス,まくろういるす,macro virus
+ファイルレスマルウェア,ふぁいるれすまるうぇあ,fileless malware
+偽セキュリティ対策ソフト,にせせきゅりてぃたいさくそふと,fake antivirus (scareware)
+RAT,らっと,remote access Trojan
+Emotet,えもてっと,Emotet
+ダウンローダ,だうんろーだ,downloader
+ドロッパ,どろっぱ,dropper
+ワンクリック詐欺,わんくりっくさぎ,one-click fraud
+フィッシング,ふぃっしんぐ,phishing
+スピアフィッシング,すぴあふぃっしんぐ,spear phishing
+標的型攻撃,ひょうてきがたこうげき,targeted attack
+標的型攻撃メール,ひょうてきがたこうげきめーる,targeted attack email
+水飲み場型攻撃,みずのみばがたこうげき,watering hole attack
+ビジネスメール詐欺,びじねすめーるさぎ,business email compromise (BEC)
+APT攻撃,えーぴーてぃーこうげき,advanced persistent threat attack
+やり取り型攻撃,やりとりがたこうげき,interactive (exchange-type) attack
+ドライブバイダウンロード,どらいぶばいだうんろーど,drive-by download
+ゼロデイ攻撃,ぜろでいこうげき,zero-day attack
+サプライチェーン攻撃,さぷらいちぇーんこうげき,supply chain attack
+DoS攻撃,どすこうげき,denial-of-service attack
+DDoS攻撃,でぃーどすこうげき,distributed denial-of-service attack
+リフレクション攻撃,りふれくしょんこうげき,reflection attack
+SYNフラッド攻撃,しんふらっどこうげき,SYN flood attack
+ブルートフォース攻撃,ぶるーとふぉーすこうげき,brute force attack
+総当たり攻撃,そうあたりこうげき,brute force attack
+辞書攻撃,じしょこうげき,dictionary attack
+パスワードリスト攻撃,ぱすわーどりすとこうげき,credential stuffing
+リバースブルートフォース攻撃,りばーすぶるーとふぉーすこうげき,reverse brute force attack
+パスワードスプレー攻撃,ぱすわーどすぷれーこうげき,password spraying
+レインボーテーブル攻撃,れいんぼーてーぶるこうげき,rainbow table attack
+SQLインジェクション,えすきゅーえるいんじぇくしょん,SQL injection
+クロスサイトスクリプティング,くろすさいとすくりぷてぃんぐ,cross-site scripting (XSS)
+クロスサイトリクエストフォージェリ,くろすさいとりくえすとふぉーじぇり,cross-site request forgery (CSRF)
+OSコマンドインジェクション,おーえすこまんどいんじぇくしょん,OS command injection
+ディレクトリトラバーサル,でぃれくとりとらばーさる,directory traversal
+バッファオーバフロー,ばっふぁおーばふろー,buffer overflow
+セッションハイジャック,せっしょんはいじゃっく,session hijacking
+クリックジャッキング,くりっくじゃっきんぐ,clickjacking
+中間者攻撃,ちゅうかんしゃこうげき,man-in-the-middle attack
+MITB攻撃,えむあいてぃーびーこうげき,man-in-the-browser attack
+DNSキャッシュポイズニング,でぃーえぬえすきゃっしゅぽいずにんぐ,DNS cache poisoning
+ARPスプーフィング,あーぷすぷーふぃんぐ,ARP spoofing
+IPスプーフィング,あいぴーすぷーふぃんぐ,IP spoofing
+ポートスキャン,ぽーとすきゃん,port scan
+サイドチャネル攻撃,さいどちゃねるこうげき,side-channel attack
+リプレイ攻撃,りぷれいこうげき,replay attack
+クリプトジャッキング,くりぷとじゃっきんぐ,cryptojacking
+踏み台,ふみだい,stepping stone (relay host)
+不正アクセス,ふせいあくせす,unauthorized access
+権限昇格,けんげんしょうかく,privilege escalation
+ハクティビズム,はくてぃびずむ,hacktivism
+サイバー攻撃,さいばーこうげき,cyber attack
+攻撃者,こうげきしゃ,attacker
+クラッカー,くらっかー,cracker
+スクリプトキディ,すくりぷときでぃ,script kiddie
+ダークウェブ,だーくうぇぶ,dark web
+暗号化,あんごうか,encryption
+復号,ふくごう,decryption
+平文,ひらぶん,plaintext
+暗号文,あんごうぶん,ciphertext
+鍵,かぎ,key
+共通鍵暗号方式,きょうつうかぎあんごうほうしき,symmetric-key cryptography
+公開鍵暗号方式,こうかいかぎあんごうほうしき,public-key cryptography
+秘密鍵,ひみつかぎ,private key
+公開鍵,こうかいかぎ,public key
+ハイブリッド暗号方式,はいぶりっどあんごうほうしき,hybrid cryptosystem
+AES,えーいーえす,Advanced Encryption Standard
+RSA,あーるえすえー,RSA
+楕円曲線暗号,だえんきょくせんあんごう,elliptic curve cryptography
+ハッシュ関数,はっしゅかんすう,hash function
+ハッシュ値,はっしゅち,hash value
+メッセージダイジェスト,めっせーじだいじぇすと,message digest
+SHA-256,しゃーにごろく,SHA-256
+ソルト,そると,salt
+ストレッチング,すとれっちんぐ,key stretching
+危殆化,きたいか,compromise (of cryptography)
+鍵管理,かぎかんり,key management
+デジタル署名,でじたるしょめい,digital signature
+電子署名,でんししょめい,electronic signature
+メッセージ認証符号,めっせーじにんしょうふごう,message authentication code (MAC)
+タイムスタンプ,たいむすたんぷ,timestamp
+PKI,ぴーけーあい,public key infrastructure
+認証局,にんしょうきょく,certificate authority (CA)
+デジタル証明書,でじたるしょうめいしょ,digital certificate
+サーバ証明書,さーばしょうめいしょ,server certificate
+クライアント証明書,くらいあんとしょうめいしょ,client certificate
+ルート証明書,るーとしょうめいしょ,root certificate
+証明書失効リスト,しょうめいしょしっこうりすと,certificate revocation list (CRL)
+OCSP,おーしーえすぴー,Online Certificate Status Protocol
+EV証明書,いーぶいしょうめいしょ,Extended Validation certificate
+CRYPTREC,くりぷとれっく,CRYPTREC (Japanese cryptography evaluation project)
+認証,にんしょう,authentication
+認可,にんか,authorization
+識別,しきべつ,identification
+利用者ID,りようしゃあいでぃー,user ID
+パスワード,ぱすわーど,password
+ワンタイムパスワード,わんたいむぱすわーど,one-time password
+多要素認証,たようそにんしょう,multi-factor authentication
+二要素認証,にようそにんしょう,two-factor authentication
+二段階認証,にだんかいにんしょう,two-step verification
+知識情報,ちしきじょうほう,knowledge factor (something you know)
+所持情報,しょじじょうほう,possession factor (something you have)
+生体情報,せいたいじょうほう,inherence factor (biometric)
+生体認証,せいたいにんしょう,biometric authentication
+バイオメトリクス認証,ばいおめとりくすにんしょう,biometric authentication
+本人拒否率,ほんにんきょひりつ,false rejection rate (FRR)
+他人受入率,たにんうけいれりつ,false acceptance rate (FAR)
+静脈認証,じょうみゃくにんしょう,vein authentication
+指紋認証,しもんにんしょう,fingerprint authentication
+顔認証,かおにんしょう,face recognition
+虹彩認証,こうさいにんしょう,iris recognition
+シングルサインオン,しんぐるさいんおん,single sign-on (SSO)
+チャレンジレスポンス認証,ちゃれんじれすぽんすにんしょう,challenge-response authentication
+CAPTCHA,きゃぷちゃ,CAPTCHA
+リスクベース認証,りすくべーすにんしょう,risk-based authentication
+FIDO,ふぁいど,FIDO (passwordless authentication)
+パスキー,ぱすきー,passkey
+SMS認証,えすえむえすにんしょう,SMS authentication
+アクセス制御,あくせすせいぎょ,access control
+アクセス権,あくせすけん,access rights
+最小権限の原則,さいしょうけんげんのげんそく,principle of least privilege
+needtoknowの原則,にーどとぅのうのげんそく,need-to-know principle
+特権ID,とっけんあいでぃー,privileged ID
+アカウントロック,あかうんとろっく,account lockout
+ID管理,あいでぃーかんり,identity management
+職務の分離,しょくむのぶんり,segregation of duties
+ゼロトラスト,ぜろとらすと,zero trust
+境界防御,きょうかいぼうぎょ,perimeter defense
+多層防御,たそうぼうぎょ,defense in depth
+入口対策,いりぐちたいさく,entrance (inbound) countermeasures
+出口対策,でぐちたいさく,exit (outbound) countermeasures
+内部対策,ないぶたいさく,internal countermeasures
+ファイアウォール,ふぁいあうぉーる,firewall
+パケットフィルタリング,ぱけっとふぃるたりんぐ,packet filtering
+WAF,わふ,web application firewall
+IDS,あいでぃーえす,intrusion detection system
+IPS,あいぴーえす,intrusion prevention system
+DMZ,でぃーえむぜっと,demilitarized zone
+プロキシサーバ,ぷろきしさーば,proxy server
+リバースプロキシ,りばーすぷろきし,reverse proxy
+UTM,ゆーてぃーえむ,unified threat management
+SIEM,しーむ,security information and event management
+EDR,いーでぃーあーる,endpoint detection and response
+SOC,そっく,security operations center
+CSIRT,しーさーと,computer security incident response team
+VPN,ぶいぴーえぬ,virtual private network
+IPsec,あいぴーせっく,IPsec
+SSL/TLS,えすえすえる/てぃーえるえす,SSL/TLS
+HTTPS,えいちてぃーてぃーぴーえす,HTTPS
+S/MIME,えすまいむ,S/MIME
+SPF,えすぴーえふ,Sender Policy Framework
+DKIM,でぃーきむ,DomainKeys Identified Mail
+DMARC,でぃーまーく,DMARC
+SMTP-AUTH,えすえむてぃーぴーおーす,SMTP authentication
+OP25B,おーぴーにじゅうごびー,Outbound Port 25 Blocking
+DNSSEC,でぃーえぬえすせっく,DNSSEC
+無線LAN,むせんらん,wireless LAN
+WPA3,だぶりゅーぴーえーすりー,WPA3
+SSID,えすえすあいでぃー,SSID
+MACアドレスフィルタリング,まっくあどれすふぃるたりんぐ,MAC address filtering
+検疫ネットワーク,けんえきねっとわーく,quarantine network
+ネットワーク分離,ねっとわーくぶんり,network segregation
+URLフィルタリング,ゆーあーるえるふぃるたりんぐ,URL filtering
+コンテンツフィルタリング,こんてんつふぃるたりんぐ,content filtering
+サンドボックス,さんどぼっくす,sandbox
+ハニーポット,はにーぽっと,honeypot
+ウイルス対策ソフト,ういるすたいさくそふと,antivirus software
+パターンファイル,ぱたーんふぁいる,pattern (signature) file
+パターンマッチング方式,ぱたーんまっちんぐほうしき,signature-based detection
+ビヘイビア法,びへいびあほう,behavior-based detection
+ヒューリスティック法,ひゅーりすてぃっくほう,heuristic detection
+セキュリティパッチ,せきゅりてぃぱっち,security patch
+脆弱性診断,ぜいじゃくせいしんだん,vulnerability assessment
+ペネトレーションテスト,ぺねとれーしょんてすと,penetration testing
+ファジング,ふぁじんぐ,fuzzing
+セキュアブート,せきゅあぶーと,secure boot
+TPM,てぃーぴーえむ,Trusted Platform Module
+耐タンパ性,たいたんぱせい,tamper resistance
+デジタルフォレンジックス,でじたるふぉれんじっくす,digital forensics
+ログ,ろぐ,log
+ログ管理,ろぐかんり,log management
+アクセスログ,あくせすろぐ,access log
+証跡,しょうせき,audit trail / evidence
+NTP,えぬてぃーぴー,Network Time Protocol
+バックアップ,ばっくあっぷ,backup
+フルバックアップ,ふるばっくあっぷ,full backup
+差分バックアップ,さぶんばっくあっぷ,differential backup
+増分バックアップ,ぞうぶんばっくあっぷ,incremental backup
+世代管理,せだいかんり,generation management (backup rotation)
+リストア,りすとあ,restore
+RAID,れいど,RAID
+冗長化,じょうちょうか,redundancy
+フォールトトレランス,ふぉーるととれらんす,fault tolerance
+フェールセーフ,ふぇーるせーふ,fail-safe
+フェールソフト,ふぇーるそふと,fail-soft
+フールプルーフ,ふーるぷるーふ,foolproof
+UPS,ゆーぴーえす,uninterruptible power supply
+物理的セキュリティ,ぶつりてきせきゅりてぃ,physical security
+入退室管理,にゅうたいしつかんり,entry and exit control
+アンチパスバック,あんちぱすばっく,anti-passback
+インターロックゲート,いんたーろっくげーと,interlock gate (mantrap)
+セキュリティゲート,せきゅりてぃげーと,security gate
+監視カメラ,かんしかめら,surveillance camera
+施錠,せじょう,locking
+クリアデスク,くりあですく,clear desk
+クリアスクリーン,くりあすくりーん,clear screen
+セキュリティワイヤ,せきゅりてぃわいや,security cable lock
+のぞき見防止フィルタ,のぞきみぼうしふぃるた,privacy filter
+データ消去,でーたしょうきょ,data erasure
+物理的破壊,ぶつりてきはかい,physical destruction
+シュレッダー,しゅれっだー,shredder
+MDM,えむでぃーえむ,mobile device management
+BYOD,びーわいおーでぃー,bring your own device
+リモートワイプ,りもーとわいぷ,remote wipe
+テレワーク,てれわーく,telework / remote work
+ISMS,あいえすえむえす,information security management system
+JIS Q 27001,じすきゅーにまんななせんいち,JIS Q 27001 (ISO/IEC 27001)
+JIS Q 27002,じすきゅーにまんななせんに,JIS Q 27002 (ISO/IEC 27002)
+ISMS適合性評価制度,あいえすえむえすてきごうせいひょうかせいど,ISMS conformity assessment scheme
+情報セキュリティ方針,じょうほうせきゅりてぃほうしん,information security policy
+基本方針,きほんほうしん,basic policy
+対策基準,たいさくきじゅん,standards (measures criteria)
+実施手順,じっしてじゅん,procedures
+情報セキュリティポリシー,じょうほうせきゅりてぃぽりしー,information security policy
+適用範囲,てきようはんい,scope
+適用宣言書,てきようせんげんしょ,statement of applicability (SoA)
+トップマネジメント,とっぷまねじめんと,top management
+リーダーシップ,りーだーしっぷ,leadership
+利害関係者,りがいかんけいしゃ,interested parties / stakeholders
+情報セキュリティ委員会,じょうほうせきゅりてぃいいんかい,information security committee
+最高情報セキュリティ責任者,さいこうじょうほうせきゅりてぃせきにんしゃ,chief information security officer (CISO)
+PDCAサイクル,ぴーでぃーしーえーさいくる,PDCA cycle
+計画,けいかく,plan
+運用,うんよう,operation
+パフォーマンス評価,ぱふぉーまんすひょうか,performance evaluation
+改善,かいぜん,improvement
+内部監査,ないぶかんさ,internal audit
+マネジメントレビュー,まねじめんとれびゅー,management review
+不適合,ふてきごう,nonconformity
+是正処置,ぜせいしょち,corrective action
+予防処置,よぼうしょち,preventive action
+継続的改善,けいぞくてきかいぜん,continual improvement
+文書化した情報,ぶんしょかしたじょうほう,documented information
+力量,りきりょう,competence
+認識,にんしき,awareness
+教育訓練,きょういくくんれん,education and training
+セキュリティ教育,せきゅりてぃきょういく,security awareness training
+標的型メール訓練,ひょうてきがためーるくんれん,phishing simulation training
+守秘義務,しゅひぎむ,confidentiality obligation
+秘密保持契約,ひみつほじけいやく,non-disclosure agreement (NDA)
+誓約書,せいやくしょ,written pledge
+懲戒手続,ちょうかいてつづき,disciplinary process
+情報分類,じょうほうぶんるい,information classification
+ラベル付け,らべるづけ,labeling
+情報資産台帳,じょうほうしさんだいちょう,information asset inventory
+資産の管理責任者,しさんのかんりせきにんしゃ,asset owner
+媒体の管理,ばいたいのかんり,media handling
+変更管理,へんこうかんり,change management
+構成管理,こうせいかんり,configuration management
+容量・能力の管理,ようりょうのうりょくのかんり,capacity management
+外部委託,がいぶいたく,outsourcing
+委託先管理,いたくさきかんり,contractor (vendor) management
+再委託,さいいたく,subcontracting
+SLA,えすえるえー,service level agreement
+クラウドサービス,くらうどさーびす,cloud service
+SaaS,さーす,software as a service
+PaaS,ぱーす,platform as a service
+IaaS,いあーす,infrastructure as a service
+責任共有モデル,せきにんきょうゆうもでる,shared responsibility model
+ISMAP,いすまっぷ,ISMAP (Japanese gov cloud security assessment)
+CASB,きゃすびー,cloud access security broker
+リスクマネジメント,りすくまねじめんと,risk management
+リスクアセスメント,りすくあせすめんと,risk assessment
+リスク特定,りすくとくてい,risk identification
+リスク分析,りすくぶんせき,risk analysis
+リスク評価,りすくひょうか,risk evaluation
+リスク対応,りすくたいおう,risk treatment
+リスク基準,りすくきじゅん,risk criteria
+リスク受容基準,りすくじゅようきじゅん,risk acceptance criteria
+リスク所有者,りすくしょゆうしゃ,risk owner
+リスクレベル,りすくれべる,risk level
+残留リスク,ざんりゅうりすく,residual risk
+リスク回避,りすくかいひ,risk avoidance
+リスク低減,りすくていげん,risk reduction (mitigation)
+リスク移転,りすくいてん,risk transfer
+リスク共有,りすくきょうゆう,risk sharing
+リスク保有,りすくほゆう,risk retention (acceptance)
+リスク受容,りすくじゅよう,risk acceptance
+リスクコミュニケーション,りすくこみゅにけーしょん,risk communication
+リスクファイナンス,りすくふぁいなんす,risk financing
+サイバー保険,さいばーほけん,cyber insurance
+定性的リスク分析,ていせいてきりすくぶんせき,qualitative risk analysis
+定量的リスク分析,ていりょうてきりすくぶんせき,quantitative risk analysis
+年間予想損失額,ねんかんよそうそんしつがく,annual loss expectancy (ALE)
+発生頻度,はっせいひんど,likelihood (frequency)
+影響度,えいきょうど,impact
+ベースラインアプローチ,べーすらいんあぷろーち,baseline approach
+詳細リスク分析,しょうさいりすくぶんせき,detailed risk analysis
+組合せアプローチ,くみあわせあぷろーち,combined approach
+非形式的アプローチ,ひけいしきてきあぷろーち,informal approach
+JIS Q 31000,じすきゅーさんまんいちせん,JIS Q 31000 (ISO 31000 risk management)
+インシデント,いんしでんと,incident
+情報セキュリティ事象,じょうほうせきゅりてぃじしょう,information security event
+情報セキュリティインシデント,じょうほうせきゅりてぃいんしでんと,information security incident
+インシデント対応,いんしでんとたいおう,incident response
+インシデント管理,いんしでんとかんり,incident management
+検知,けんち,detection
+初動対応,しょどうたいおう,initial response
+封じ込め,ふうじこめ,containment
+根絶,こんぜつ,eradication
+復旧,ふっきゅう,recovery
+エスカレーション,えすかれーしょん,escalation
+トリアージ,とりあーじ,triage
+報告,ほうこく,reporting
+証拠保全,しょうこほぜん,evidence preservation
+再発防止,さいはつぼうし,recurrence prevention
+事業継続,じぎょうけいぞく,business continuity
+事業継続計画,じぎょうけいぞくけいかく,business continuity plan (BCP)
+事業継続管理,じぎょうけいぞくかんり,business continuity management (BCM)
+事業影響度分析,じぎょうえいきょうどぶんせき,business impact analysis (BIA)
+目標復旧時間,もくひょうふっきゅうじかん,recovery time objective (RTO)
+目標復旧時点,もくひょうふっきゅうじてん,recovery point objective (RPO)
+目標復旧レベル,もくひょうふっきゅうれべる,recovery level objective (RLO)
+最大許容停止時間,さいだいきょようていしじかん,maximum tolerable period of disruption (MTPD)
+コンティンジェンシープラン,こんてぃんじぇんしーぷらん,contingency plan
+災害復旧,さいがいふっきゅう,disaster recovery
+ホットサイト,ほっとさいと,hot site
+ウォームサイト,うぉーむさいと,warm site
+コールドサイト,こーるどさいと,cold site
+遠隔地保管,えんかくちほかん,offsite storage
+可用性管理,かようせいかんり,availability management
+MTBF,えむてぃーびーえふ,mean time between failures
+MTTR,えむてぃーてぃーあーる,mean time to repair
+稼働率,かどうりつ,availability rate (uptime)
+システム監査,しすてむかんさ,system audit
+情報セキュリティ監査,じょうほうせきゅりてぃかんさ,information security audit
+監査人,かんさにん,auditor
+被監査部門,ひかんさぶもん,auditee
+監査証拠,かんさしょうこ,audit evidence
+監査調書,かんさちょうしょ,audit working papers
+監査報告書,かんさほうこくしょ,audit report
+指摘事項,してきじこう,audit finding
+改善勧告,かいぜんかんこく,improvement recommendation
+フォローアップ,ふぉろーあっぷ,follow-up
+独立性,どくりつせい,independence
+外観上の独立性,がいかんじょうのどくりつせい,independence in appearance
+精神上の独立性,せいしんじょうのどくりつせい,independence of mind
+保証型監査,ほしょうがたかんさ,assurance-type audit
+助言型監査,じょげんがたかんさ,advisory-type audit
+情報セキュリティ管理基準,じょうほうせきゅりてぃかんりきじゅん,Information Security Management Standards (METI)
+システム管理基準,しすてむかんりきじゅん,System Management Standards (METI)
+内部統制,ないぶとうせい,internal control
+ITガバナンス,あいてぃーがばなんす,IT governance
+情報セキュリティガバナンス,じょうほうせきゅりてぃがばなんす,information security governance
+コーポレートガバナンス,こーぽれーとがばなんす,corporate governance
+コンプライアンス,こんぷらいあんす,compliance
+COSOフレームワーク,こそふれーむわーく,COSO framework
+統制環境,とうせいかんきょう,control environment
+統制活動,とうせいかつどう,control activities
+モニタリング,もにたりんぐ,monitoring
+CSF,しーえすえふ,NIST Cybersecurity Framework
+サイバーセキュリティ経営ガイドライン,さいばーせきゅりてぃけいえいがいどらいん,Cybersecurity Management Guidelines (METI)
+中小企業の情報セキュリティ対策ガイドライン,ちゅうしょうきぎょうのじょうほうせきゅりてぃたいさくがいどらいん,Information Security Guidelines for SMEs (IPA)
+SECURITY ACTION,せきゅりてぃあくしょん,SECURITY ACTION (SME self-declaration program)
+情報セキュリティ10大脅威,じょうほうせきゅりてぃじゅうだいきょうい,Top 10 Information Security Threats (IPA)
+IPA,あいぴーえー,Information-technology Promotion Agency Japan
+JPCERT/CC,じぇいぴーさーとしーしー,JPCERT Coordination Center
+NISC,にすく,National center of Incident readiness and Strategy for Cybersecurity
+J-CSIP,じぇいしっぷ,Initiative for Cyber Security Information sharing Partnership of Japan
+J-CRAT,じぇいくらっと,Cyber Rescue and Advice Team against targeted attack of Japan
+CVE,しーぶいいー,Common Vulnerabilities and Exposures
+CVSS,しーぶいえすえす,Common Vulnerability Scoring System
+JVN,じぇいぶいえぬ,Japan Vulnerability Notes
+脆弱性情報,ぜいじゃくせいじょうほう,vulnerability information
+セキュリティ・バイ・デザイン,せきゅりてぃばいでざいん,security by design
+プライバシー・バイ・デザイン,ぷらいばしーばいでざいん,privacy by design
+DevSecOps,でぶせっくおぷす,DevSecOps
+サイバーセキュリティ基本法,さいばーせきゅりてぃきほんほう,Basic Act on Cybersecurity
+個人情報保護法,こじんじょうほうほごほう,Act on the Protection of Personal Information
+個人情報,こじんじょうほう,personal information
+個人データ,こじんでーた,personal data
+保有個人データ,ほゆうこじんでーた,retained personal data
+要配慮個人情報,ようはいりょこじんじょうほう,special care-required personal information
+個人識別符号,こじんしきべつふごう,individual identification code
+仮名加工情報,かめいかこうじょうほう,pseudonymously processed information
+匿名加工情報,とくめいかこうじょうほう,anonymously processed information
+個人関連情報,こじんかんれんじょうほう,personally referable information
+本人,ほんにん,data subject (the individual)
+本人同意,ほんにんどうい,consent of the individual
+利用目的,りようもくてき,purpose of use
+第三者提供,だいさんしゃていきょう,provision to third parties
+オプトイン,おぷといん,opt-in
+オプトアウト,おぷとあうと,opt-out
+個人情報保護委員会,こじんじょうほうほごいいんかい,Personal Information Protection Commission
+安全管理措置,あんぜんかんりそち,security control measures
+漏えい等の報告,ろうえいとうのほうこく,breach notification
+プライバシーマーク,ぷらいばしーまーく,PrivacyMark
+JIS Q 15001,じすきゅーいちまんごせんいち,JIS Q 15001 (personal information protection management)
+マイナンバー法,まいなんばーほう,My Number Act
+特定個人情報,とくていこじんじょうほう,specific personal information (My Number)
+GDPR,じーでぃーぴーあーる,General Data Protection Regulation
+不正アクセス禁止法,ふせいあくせすきんしほう,Act on Prohibition of Unauthorized Computer Access
+識別符号,しきべつふごう,identification code (credentials)
+不正指令電磁的記録に関する罪,ふせいしれいでんじてききろくにかんするつみ,crime related to unauthorized command electromagnetic records (virus crime)
+電子計算機使用詐欺罪,でんしけいさんきしようさぎざい,computer fraud
+電子計算機損壊等業務妨害罪,でんしけいさんきそんかいとうぎょうむぼうがいざい,obstruction of business by damaging a computer
+電磁的記録不正作出罪,でんじてききろくふせいさくしゅつざい,unauthorized creation of electromagnetic records
+刑法,けいほう,Penal Code
+電子署名法,でんししょめいほう,Act on Electronic Signatures and Certification Business
+電子帳簿保存法,でんしちょうぼほぞんほう,Electronic Book Preservation Act
+e-文書法,いーぶんしょほう,e-Document Act
+プロバイダ責任制限法,ぷろばいだせきにんせいげんほう,Provider Liability Limitation Act
+情報流通プラットフォーム対処法,じょうほうりゅうつうぷらっとふぉーむたいしょほう,Information Distribution Platform Act
+発信者情報開示請求,はっしんしゃじょうほうかいじせいきゅう,request for disclosure of sender information
+特定電子メール法,とくていでんしめーるほう,Act on Regulation of Transmission of Specified Electronic Mail (anti-spam)
+迷惑メール,めいわくめーる,spam
+著作権法,ちょさくけんほう,Copyright Act
+著作権,ちょさくけん,copyright
+著作者人格権,ちょさくしゃじんかくけん,moral rights of author
+職務著作,しょくむちょさく,work for hire
+産業財産権,さんぎょうざいさんけん,industrial property rights
+特許権,とっきょけん,patent right
+実用新案権,じつようしんあんけん,utility model right
+意匠権,いしょうけん,design right
+商標権,しょうひょうけん,trademark right
+不正競争防止法,ふせいきょうそうぼうしほう,Unfair Competition Prevention Act
+営業秘密,えいぎょうひみつ,trade secret
+秘密管理性,ひみつかんりせい,secrecy management
+有用性,ゆうようせい,usefulness
+非公知性,ひこうちせい,non-public nature
+限定提供データ,げんていていきょうでーた,shared data with limited access
+ドメイン名の不正取得,どめいんめいのふせいしゅとく,cybersquatting
+労働基準法,ろうどうきじゅんほう,Labor Standards Act
+労働者派遣法,ろうどうしゃはけんほう,Worker Dispatch Act
+派遣契約,はけんけいやく,worker dispatch contract
+請負契約,うけおいけいやく,contract for work
+準委任契約,じゅんいにんけいやく,quasi-mandate contract
+偽装請負,ぎそううけおい,disguised contracting
+下請法,したうけほう,Subcontract Act
+公益通報者保護法,こうえきつうほうしゃほごほう,Whistleblower Protection Act
+内部通報制度,ないぶつうほうせいど,internal whistleblowing system
+PL法,ぴーえるほう,Product Liability Act
+情報倫理,じょうほうりんり,information ethics
+ネチケット,ねちけっと,netiquette
+炎上,えんじょう,online flaming (backlash)
+フェイクニュース,ふぇいくにゅーす,fake news
+ディープフェイク,でぃーぷふぇいく,deepfake
+生成AI,せいせいえーあい,generative AI
+プロンプトインジェクション,ぷろんぷといんじぇくしょん,prompt injection
+ハルシネーション,はるしねーしょん,hallucination
+IoT,あいおーてぃー,Internet of Things
+IoTセキュリティガイドライン,あいおーてぃーせきゅりてぃがいどらいん,IoT Security Guidelines
+デジタルトランスフォーメーション,でじたるとらんすふぉーめーしょん,digital transformation (DX)
+システム開発ライフサイクル,しすてむかいはつらいふさいくる,system development life cycle
+セキュアコーディング,せきゅあこーでぃんぐ,secure coding
+エスケープ処理,えすけーぷしょり,escaping
+サニタイジング,さにたいじんぐ,sanitizing
+プレースホルダ,ぷれーすほるだ,placeholder (prepared statement)
+入力値検証,にゅうりょくちけんしょう,input validation
+コードレビュー,こーどれびゅー,code review
+ソースコード,そーすこーど,source code
+SBOM,えすぼむ,software bill of materials
+OSS,おーえすえす,open source software
+ライセンス,らいせんす,license
+EOL,いーおーえる,end of life (support end)
+SLCP,えすえるしーぴー,software life cycle process
+ITサービスマネジメント,あいてぃーさーびすまねじめんと,IT service management
+ITIL,あいてぃる,ITIL
+サービスデスク,さーびすですく,service desk
+問題管理,もんだいかんり,problem management
+リリース管理,りりーすかんり,release management
+プロジェクトマネジメント,ぷろじぇくとまねじめんと,project management
+WBS,だぶりゅーびーえす,work breakdown structure
+ステークホルダ,すてーくほるだ,stakeholder
+経営戦略,けいえいせんりゃく,business strategy
+SWOT分析,すうぉっとぶんせき,SWOT analysis
+BSC,びーえすしー,balanced scorecard
+KPI,けーぴーあい,key performance indicator
+KGI,けーじーあい,key goal indicator
+CSR,しーえすあーる,corporate social responsibility
+SDGs,えすでぃーじーず,Sustainable Development Goals
+エンタープライズアーキテクチャ,えんたーぷらいずあーきてくちゃ,enterprise architecture
+業務プロセス,ぎょうむぷろせす,business process
+BPR,びーぴーあーる,business process reengineering
+RPA,あーるぴーえー,robotic process automation
+データベース,でーたべーす,database
+トランザクション,とらんざくしょん,transaction
+排他制御,はいたせいぎょ,exclusive control (locking)
+ロールバック,ろーるばっく,rollback
+ロールフォワード,ろーるふぉわーど,rollforward
+DNS,でぃーえぬえす,Domain Name System
+DHCP,でぃーえいちしーぴー,Dynamic Host Configuration Protocol
+TCP/IP,てぃーしーぴーあいぴー,TCP/IP
+ポート番号,ぽーとばんごう,port number
+IPアドレス,あいぴーあどれす,IP address
+NAT,なっと,network address translation
+LAN,らん,local area network
+WAN,わん,wide area network
+メールサーバ,めーるさーば,mail server
+POP3,ぽっぷすりー,POP3
+IMAP,あいまっぷ,IMAP
+CC,しーしー,carbon copy
+BCC,びーしーしー,blind carbon copy
+誤送信,ごそうしん,misdelivery (sending to wrong recipient)
+添付ファイル,てんぷふぁいる,attachment
+PPAP,ぴーぴーえーぴー,PPAP (zip password emailed separately)
+ファイル共有,ふぁいるきょうゆう,file sharing
+P2P,ぴーつーぴー,peer-to-peer
+USBメモリ,ゆーえすびーめもり,USB flash drive
+外部記憶媒体,がいぶきおくばいたい,external storage media
+暗号化USBメモリ,あんごうかゆーえすびーめもり,encrypted USB drive
+ディスク暗号化,でぃすくあんごうか,disk encryption
+ファイル暗号化,ふぁいるあんごうか,file encryption
+DLP,でぃーえるぴー,data loss prevention
+IRM,あいあーるえむ,information rights management
+電子透かし,でんしすかし,digital watermark
+ステガノグラフィ,すてがのぐらふぃ,steganography
+シンクライアント,しんくらいあんと,thin client
+VDI,ぶいでぃーあい,virtual desktop infrastructure
+仮想化,かそうか,virtualization
+ホワイトリスト,ほわいとりすと,allowlist (whitelist)
+ブラックリスト,ぶらっくりすと,denylist (blacklist)
+誤検知,ごけんち,false positive
+見逃し,みのがし,false negative
+セキュリティ評価,せきゅりてぃひょうか,security evaluation
+ISO/IEC 15408,あいえすおーいちまんごせんよんひゃくはち,Common Criteria (ISO/IEC 15408)
+JISEC,じぇいせっく,Japan IT Security Evaluation and Certification Scheme
+JCMVP,じぇいしーえむぶいぴー,Japan Cryptographic Module Validation Program
+PCI DSS,ぴーしーあいでぃーえすえす,Payment Card Industry Data Security Standard
+SOC2,そっくつー,SOC 2 report
+情報セキュリティサービス基準,じょうほうせきゅりてぃさーびすきじゅん,Information Security Service Standards
+情報処理安全確保支援士,じょうほうしょりあんぜんかくほしえんし,Registered Information Security Specialist (RISS)
+情報セキュリティマネジメント試験,じょうほうせきゅりてぃまねじめんとしけん,Information Security Management Examination (SG)
