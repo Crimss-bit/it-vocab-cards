@@ -1,5 +1,6 @@
 # it-vocab-cards
 So bsically a command line flashcard to make me learning Japanese IT terms (JP to EN)
+it have roughly 500+ words with english translation.
 
 ## Why I'm building this
 it makes me easier to learn and kinda fun!
